@@ -1,0 +1,14 @@
+alias ll='ls -laF'
+export LC_COLLATE=C
+export PATH=$PATH:$HOME/bin
+alias m=more
+alias xx=exit
+alias h=history
+alias ss='. ~/.bashrc'
+alias spy='ps auwx | grep '
+alias ff='firefox -no-remote -ProfileManager'
+alias vlcx='/usr/bin/vlc --no-auto-preparse --album-art 0 '
+alias vlc=vlcx
+alias jj='jobs -l'
+
+alias ak='akregator >/dev/null 2>&1'
