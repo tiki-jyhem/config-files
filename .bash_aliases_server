@@ -1,0 +1,11 @@
+export LC_COLLATE=C
+export PATH=$PATH:$HOME/bin
+
+alias jj='jobs -l'
+alias xx=exit
+alias ss='. ~/.bashrc'
+alias m=more
+alias h=history
+alias spy='ps auwx | grep '
+alias greps="grep --exclude-dir=.svn --exclude-dir='unified-*'"
+alias a=alias
