@@ -1,3 +1,4 @@
+# Jyhem's bash customisation
 export LC_COLLATE=C
 export PATH=$PATH:$HOME/bin
 
